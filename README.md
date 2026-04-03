@@ -25,7 +25,7 @@ This repository contains a macOS sample project demonstrating all the example re
 
 ## Contributing
 
-I made Prismic to provide sample code for folks who want to create interesting text effects wit SwiftUI. If you’d like to contribute your own text renderers or improve existing ones, that’s great! But first please read the following:
+I made Prismic to provide sample code for folks who want to create interesting text effects with SwiftUI. If you’d like to contribute your own text renderers or improve existing ones, that’s great! But first please read the following:
 
 - All code must be licensed under the MIT license so it can benefit the most people.
 - We use the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) to ensure everyone feels welcome in the project.
